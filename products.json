@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"KH01 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/1.png"
+    },
+    {
+        "id":2,
+        "name":"KH02 LOUNGE CHAIR",
+        "price": 210,
+        "image": "image/2.png"
+    },
+    {
+        "id":3,
+        "name":"KH03 LOUNGE CHAIR",
+        "price": 220,
+        "image": "image/3.png"
+    },
+    {
+        "id":4,
+        "name":"KH04 LOUNGE CHAIR",
+        "price": 230,
+        "image": "image/4.png"
+    },
+    {
+        "id":5,
+        "name":"KH05 LOUNGE CHAIR",
+        "price": 240,
+        "image": "image/5.png"
+    },
+    {
+        "id":6,
+        "name":"KH06 LOUNGE CHAIR",
+        "price": 250,
+        "image": "image/6.png"
+    },
+    {
+        "id":7,
+        "name":"KH07 LOUNGE CHAIR",
+        "price": 260,
+        "image": "image/7.png"
+    },
+    {
+        "id":8,
+        "name":"KH08 LOUNGE CHAIR",
+        "price": 300,
+        "image": "image/8.png"
+    }
+]
